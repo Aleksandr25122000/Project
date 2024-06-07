@@ -1,0 +1,10 @@
+.section{
+    width:15em;
+    background-color: beige;
+    grid-area:section;
+    word-wrap: break-word;
+
+}
+.section{
+    text-align: center;
+}

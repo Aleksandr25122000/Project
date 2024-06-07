@@ -1,0 +1,7 @@
+.article{
+    width:60em;
+    background-color: beige;
+    grid-area: article;
+    border-left: black solid 5px;
+    border-right: black solid 5px;
+}

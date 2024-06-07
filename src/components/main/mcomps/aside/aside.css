@@ -1,0 +1,5 @@
+.aside{
+    width:20em;
+    background-color: beige;
+    grid-area: aside;
+}

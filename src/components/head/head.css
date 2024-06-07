@@ -1,0 +1,12 @@
+.head{
+    height:100vh;
+    position:fixed;
+    top:0;
+    width: 100vw;
+
+}
+
+.head{
+    text-align: center;
+    font-size: revert;
+}
